@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A developer from Czechia</h3>
+<h3 align="center">A student from Czechia</h3>
 
 - 🔭 I’m currently working on **Roman Simulator**
 
