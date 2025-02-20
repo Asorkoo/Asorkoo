@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: **He/Him**
   
-- 🌱 I’m currently learning **Objects**
+- 🌱 I’m currently learning **Objects in javaScript**
   
 - ⚡ Fun fact **I'm lowkey goated in Valorant**
 
