@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Objects**
 
 - ⚡ Fun fact **I'm lowkey goated in Valorant**
-- 😄 Pronouns: He/Him**
+- 😄 Pronouns: **He/Him**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
