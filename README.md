@@ -4,10 +4,12 @@
 
 - 🔭 I’m currently working on **Roman Simulator**
 
-- 🌱 I’m currently learning **Objects**
-
-- ⚡ Fun fact **I'm lowkey goated in Valorant**
 - 😄 Pronouns: **He/Him**
+  
+- 🌱 I’m currently learning **Objects**
+  
+- ⚡ Fun fact **I'm lowkey goated in Valorant**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
