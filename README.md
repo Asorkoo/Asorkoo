@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 🖐🏻, I´m Adam🙌🏻</h1>
+<h1 align="center">Ahoj Ahoj</h1>
 <h3 align="center">A student from Czechia</h3>
 
 
